@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "activedirectory": "^0.7.2",
-    "ansi_up": "^1.3.0",
+    "ansi_up": "^5.0.0",
     "async": "^2.0.1",
     "bcryptjs": "^2.1.0",
     "bluebird": "^3.4.1",
