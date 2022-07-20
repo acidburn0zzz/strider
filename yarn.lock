@@ -108,9 +108,9 @@ angular-route@1.5.7:
   version "1.5.7"
   resolved "https://registry.yarnpkg.com/angular-route/-/angular-route-1.5.7.tgz#d43fb72fb6e3ce3e2ac300c196db4dd8d36894c8"
 
-angular@1.5.7:
-  version "1.5.7"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.5.7.tgz#4ecefd0c7134b72757ba3b41bba3a1e4d5eff5ac"
+angular@1.8.3:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.3.tgz#851ad75d5163c105a7e329555ef70c90aa706894"
 
 ansi-escapes@^1.1.0:
   version "1.4.0"
